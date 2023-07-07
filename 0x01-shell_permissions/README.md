@@ -13,5 +13,5 @@ shell permissions
 11-directories_permissions- chmod -R +X
 12-directory_permissions- mkdir -m 751 my_dir
 13-change_group- chgrp school hello
-100-change_owner_and_group- chown vincent:staff
+100-change_owner_and_group- chown vincent:staff *
 
