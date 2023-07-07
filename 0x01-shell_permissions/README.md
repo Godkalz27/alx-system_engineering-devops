@@ -9,3 +9,4 @@ shell permissions
 7-everybody- chmod ugo+x hello
 8-James_Bond- chmod 007 hello
 9-John_Doe- chmod 753 hello
+10-mirror_permissions- chmod --reference=olleh hello
