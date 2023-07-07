@@ -14,3 +14,4 @@
 13-symbolic_link- ln -s /bin/ls __ls__
 14-copy_html- cp -un *.html ../
 100-lets_move- mv [[:upper:]]* /tmp/u
+101-clean_emacs- rm *~
