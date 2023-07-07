@@ -7,4 +7,4 @@ shell permissions
 5-execute- chmod u+x hello
 6-multiple_permissions- chmod ug+x,o+r hello
 7-everybody- chmod ugo+x hello
-8-James_Bond- chmod o+x hello
+8-James_Bond- chmod 007 hello
