@@ -5,3 +5,4 @@ shell permissions
 3-new_owner- chown betty hello
 4-empty- touch hello
 5-execute- chmod u+x hello
+6-multiple_permissions- chmod ug+x,o+r hello
