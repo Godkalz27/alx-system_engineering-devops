@@ -15,3 +15,4 @@
 14-copy_html- cp -un *.html ../
 100-lets_move- mv [[:upper:]]* /tmp/u
 101-clean_emacs- rm *~
+102-tree- mkdir -p welcome/to/school
