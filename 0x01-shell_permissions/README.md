@@ -16,3 +16,4 @@ shell permissions
 100-change_owner_and_group- chown vincent:staff *
 101-symbolic_link_permissions- chown -h vincent:staff _hello
 102-if_only- chown --from=guillaume betty hello
+103-Star_Wars- telnet towel.blinkenlights.nl
