@@ -14,4 +14,5 @@ shell permissions
 12-directory_permissions- mkdir -m 751 my_dir
 13-change_group- chgrp school hello
 100-change_owner_and_group- chown vincent:staff *
+101-symbolic_link_permissions- chown vincent:staff _hello
 
