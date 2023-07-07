@@ -4,3 +4,4 @@ shell permissions
 2-groups- groups
 3-new_owner- chown betty hello
 4-empty- touch hello
+5-execute- chmod u+x hello
