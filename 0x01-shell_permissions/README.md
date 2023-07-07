@@ -12,4 +12,5 @@ shell permissions
 10-mirror_permissions- chmod --reference=olleh hello
 11-directories_permissions- chmod -R +X
 12-directory_permissions- mkdir -m 751 my_dir
+13-change_group- chgrp school hello
 
