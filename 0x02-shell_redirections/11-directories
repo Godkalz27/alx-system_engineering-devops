@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type da -not -name '.' | wc -l
+find . -type da -not -name '.' | wc -la
